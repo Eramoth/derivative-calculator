@@ -1,0 +1,5 @@
+C:\Users\axell\Desktop\code_perso\derivatory-calculator\obj\Debug\net5.0\DerivativeCalculator.csproj.AssemblyReference.cache
+C:\Users\axell\Desktop\code_perso\derivatory-calculator\obj\Debug\net5.0\DerivativeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axell\Desktop\code_perso\derivatory-calculator\obj\Debug\net5.0\DerivativeCalculator.AssemblyInfoInputs.cache
+C:\Users\axell\Desktop\code_perso\derivatory-calculator\obj\Debug\net5.0\DerivativeCalculator.AssemblyInfo.cs
+C:\Users\axell\Desktop\code_perso\derivatory-calculator\obj\Debug\net5.0\DerivativeCalculator.csproj.CoreCompileInputs.cache

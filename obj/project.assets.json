@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\axell\\Desktop\\code_perso\\derivatory-calculator\\DerivatoryCalculator.csproj",
-      "projectName": "DerivatoryCalculator",
-      "projectPath": "C:\\Users\\axell\\Desktop\\code_perso\\derivatory-calculator\\DerivatoryCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\axell\\Desktop\\code_perso\\derivatory-calculator\\DerivativeCalculator.csproj",
+      "projectName": "DerivativeCalculator",
+      "projectPath": "C:\\Users\\axell\\Desktop\\code_perso\\derivatory-calculator\\DerivativeCalculator.csproj",
       "packagesPath": "C:\\Users\\axell\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\axell\\Desktop\\code_perso\\derivatory-calculator\\obj\\",
       "projectStyle": "PackageReference",
